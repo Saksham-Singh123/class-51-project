@@ -1,0 +1,14 @@
+.header{
+    border:solid 3px black;
+    background-color:cyan;
+    font-family: cursive;
+    color: green;
+    
+}
+.contents{
+    padding: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
